@@ -1,4 +1,4 @@
 Thesaurus
 =========
 
-This will contain wiki(s) of all investigations and learnings I have done.
+Wikis dediated to my investigations and learnings.
