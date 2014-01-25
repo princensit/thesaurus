@@ -1,4 +1,4 @@
 Thesaurus
 =========
 
-Wikis dediated to my investigations and learnings.
+Wiki(s) dedicated to my investigations and learnings.
